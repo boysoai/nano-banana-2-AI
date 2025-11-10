@@ -1,6 +1,6 @@
 # nano-banana-2-AI
 Gemini Nano banana 2 AI !
-Nano Banana 2 
+[Nano Banana 2](https://banana2ai.com/) 
 illustration-to-real portrait conversion
 **Illustration to Figure**
 Transforms a stylized illustration into a photoreal portrait while retaining pose and costume cues.
